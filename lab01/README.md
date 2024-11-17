@@ -1,20 +1,20 @@
-#Домашнее задание 1.
+# Домашнее задание 1.
 
-IP plan \
+IP plan\
 
-IP = 10.DCN.Sn.X/31 \
+IP = 10.DCN.Sn.X/31\
 
-DCN - Дипазон IP адресов ЦОД 1 \ 
-SN  - Номер Spine \
-X   - порядковый номер. \
+DCN - Дипазон IP адресов ЦОД 1\ 
+SN  - Номер Spine\
+X   - порядковый номер.\
 
 DCN \
 
-1 - loopback 1 \
-2 - loopback 2 \
+1 - loopback 1\
+2 - loopback 2\
 3 - p2p links\
 4 - reserved\
-5-10 - services \
+5-10 - services\
 
 IP Plan for DC 1 \
 
